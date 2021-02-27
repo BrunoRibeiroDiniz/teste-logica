@@ -1,0 +1,24 @@
+A vaca pulou no brejo|O boi|O urso|A girafa
+O crocodilo|A cabra|O bode|O homem|A mulher
+A vaca|O boi|A leoa|O urso|O morcego|A girafa
+O crocodilo|A cabra|O bode|O homem|A mulher
+A vaca|O boi|O urso|O morcego|A girafa
+O crocodilo|A cabra|O homem|A mulher
+A vaca|O boi|O urso|O morcego|A girafa
+O crocodilo|A cabra|O homem|A mulher
+A vaca pulou no brejo|O boi|O urso|A girafa
+O crocodilo|A cabra|O bode|O homem|A mulher
+A vaca|O boi|A leoa|O urso|O morcego|A girafa
+O crocodilo|A cabra|O bode|O homem|A mulher
+A vaca|O boi|O urso|O morcego|A girafa
+O crocodilo|A cabra|O homem|A mulher
+A vaca|O boi|O urso|O morcego|A girafa
+O crocodilo|A cabra|O homem|A mulher
+A vaca pulou no brejo|O boi|O urso|A girafa
+O crocodilo|A cabra|O bode|O homem|A mulher
+A vaca|O boi|A leoa|O urso|O morcego|A girafa
+O crocodilo|A cabra|O bode|O homem|A mulher
+A vaca|O boi|O urso|O morcego|A girafa
+O crocodilo|A cabra|O homem|A mulher
+A vaca|O boi|O urso|O morcego|A girafa
+O crocodilo|A cabra|O homem|A mulher
